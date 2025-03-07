@@ -1,0 +1,9 @@
+Install Tilt for easier setup :
+
+https://docs.tilt.dev/install.html
+
+Then RUN with:
+
+tilt up --port 10351
+
+And you can monitor your project at that port.
